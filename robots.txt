@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-vjpl9n.yoursingles.online/sitemap.xml
